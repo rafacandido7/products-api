@@ -1,6 +1,6 @@
 ## ProductsAPI
 
-Este guia irá ajudá-lo a configurar e executar um projeto que utiliza NestJS, MongoDB e Docker em seu computador local. O projeto consiste em um sistema de CRUD para produtos e pedidos. Você poderá criar novos pedidos, atualizar seus status e gerenciar os produtos relacionados a esses pedidos.
+Este guia irá ajudá-lo a configurar e executar um projeto que utiliza NestJS, MongoDB e Docker em seu computador local. O projeto consiste em um sistema de CRUD para produtos e pedidos. Você poderá criar novos pedidos e atualizar seus status.
 
 ### Tecnologias
 - NestJS
